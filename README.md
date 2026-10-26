@@ -18,6 +18,7 @@
 | hatzaat-mechir-yokneam.pdf | מחלקת צעירים יקנעם עילית |
 | hatzaat-mechir-emek-hefer.pdf | מחלקת צעירים עמק חפר |
 | hatzaat-mechir-caesarea.pdf | פארק עסקים קיסריה (גרסה לעובדי חברות) |
+| hatzaat-mechir-poc.html | גלעד פיין, POC לעיבוד שיחות סוכני נדל"ן (₪400 לשעה, 35-50 שעות). ניתן לייצא ל-PDF מהדפדפן |
 
 ## פניות (`outreach/`)
 - `mailim-lereshuyot.md`: מיילים מוכנים לחמש הרשויות.

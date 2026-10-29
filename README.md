@@ -19,6 +19,7 @@
 | hatzaat-mechir-emek-hefer.pdf | מחלקת צעירים עמק חפר |
 | hatzaat-mechir-caesarea.pdf | פארק עסקים קיסריה (גרסה לעובדי חברות) |
 | hatzaat-mechir-sadna.pdf | סדנה בודדת של 3 שעות (₪3,300 לפני מע"מ), לכבוד ריק למילוי. מקור: hatzaat-mechir-sadna.html |
+| hatzaat-mechir-sadna-hadera.pdf | פנאי העיר חדרה, לידי נופר בוינג'ו (סדנת 3 שעות) |
 | hatzaat-mechir-poc.html | גלעד פיין, POC לעיבוד שיחות סוכני נדל"ן (₪400 לשעה, 35-50 שעות). ניתן לייצא ל-PDF מהדפדפן |
 
 ## פניות (`outreach/`)
